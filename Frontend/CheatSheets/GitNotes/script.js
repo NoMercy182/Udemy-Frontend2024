@@ -150,3 +150,5 @@
 // git switch <branch name>
 // git merge <main branch name>
 // git log --all --graph - смотрим
+
+// test commit learn merge
