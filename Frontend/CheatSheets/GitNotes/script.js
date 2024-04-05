@@ -152,3 +152,4 @@
 // git log --all --graph - смотрим
 
 // test commit learn merge
+// test commit learn rebase
